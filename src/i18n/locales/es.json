@@ -1,0 +1,24 @@
+{
+    "navigation": {
+      "home": "inicio",
+      "laboratory": "laboratorio", 
+      "manifesto": "manifiesto",
+      "about": "about"
+    },
+    "hero": {
+      "whoami": "$ whoami",
+      "name": "CARLOS RENDÓN",
+      "tagline": "construyo_puentes_donde_otros_ven_abismos",
+      "description": "Entre mundos que parecían separados, creo conexiones que transforman ideas en experiencias y experiencias en universos narrativos. Narrativas digitales, IA e interactividad.",
+      "exploreButton": "EXPLORAR NARRATIVAS",
+      "bridgesButton": "LOS 4 PUENTES"
+    },
+    "projects": {
+      "title": "PROYECTOS_DESTACADOS",
+      "fragmentado": {
+        "title": "FRAGMENTADO",
+        "subtitle": "Novela Interactiva",
+        "description": "Una historia en tres actos sobre la pérdida de la humanidad. Narrativa interactiva que explora el control, la memoria implantada y el genocidio tecnológico."
+      }
+    }
+  }

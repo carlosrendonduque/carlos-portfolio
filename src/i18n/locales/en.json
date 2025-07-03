@@ -1,0 +1,24 @@
+{
+    "navigation": {
+      "home": "home",
+      "laboratory": "laboratory",
+      "manifesto": "manifesto", 
+      "about": "about"
+    },
+    "hero": {
+      "whoami": "$ whoami",
+      "name": "CARLOS RENDÓN",
+      "tagline": "i_build_bridges_where_others_see_chasms",
+      "description": "Between worlds that seemed separate, I create connections that transform ideas into experiences and experiences into narrative universes. Digital narratives, AI and interactivity.",
+      "exploreButton": "EXPLORE NARRATIVES",
+      "bridgesButton": "THE 4 BRIDGES"
+    },
+    "projects": {
+      "title": "FEATURED_PROJECTS",
+      "fragmentado": {
+        "title": "FRAGMENTADO",
+        "subtitle": "Interactive Novel",
+        "description": "A three-act story about the loss of humanity. Interactive narrative exploring control, implanted memory and technological genocide."
+      }
+    }
+  }
